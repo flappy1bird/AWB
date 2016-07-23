@@ -3,7 +3,7 @@
 namespace App\Console\Commands;
 
 use Illuminate\Console\Command;
-use App\FirstPages ;
+use App\firstPages ;
 
 class getFirstPagesCommand extends Command
 {
